@@ -22,4 +22,21 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 
 + Clients make hotel reservations the same year they make cancellations.
 
+## Research Questions
+
++ What are the variables that affect hotel reservation cancellations?
++ How can we make hotel reservations cancellations better?
++ How will hotels be assisted in making pricing and promotional decisions?
+
+## Hypothesis
+
++ More cancellations occur when prices are higher.
++ When there is a longer waiting list, customers tend to cancel more frequently.
++ The majority of clients are coming from offline travel agents to make their reservations.
+
+## Insights acquired through analysis
+
++ There are significant number of reservations that have not been cancelled. There are about 37% of clients who cancelled their hotel reservation, which has a significant impact on the hotels' earnings.
++ 
+
 
