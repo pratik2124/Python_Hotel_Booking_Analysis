@@ -44,6 +44,11 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 + The top country with the highest number of reservation cancellations is Portugal.
 + Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
   
+# Suggestions
 
++ Cancellation rates rise as the price does. To prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers.
++ As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So, the hotels should provide a reasonable discount on the room prices on weekends or on holidays.
++ In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
++ They can also increase the quality of their hotels and their services mainly in Portugal to reduce-the-cancellation-rate.
 
 
