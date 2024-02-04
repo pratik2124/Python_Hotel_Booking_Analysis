@@ -10,16 +10,16 @@ In recent years, City Hotel and Resort Hotel have seen high cancellation rates. 
 
 ## Assumptions
 
-. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
++ The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
 
-. There are no unanticipated negatives to the hotel employing any advised technique.
++ There are no unanticipated negatives to the hotel employing any advised technique.
 
-. The hotels are not currently using any of the suggested solutions.
++ The hotels are not currently using any of the suggested solutions.
 
-. The biggest factor affecting the effectiveness of earning income is booking cancellations.
++ The biggest factor affecting the effectiveness of earning income is booking cancellations.
 
-. Cancellations result in vacant rooms for the booked length of time.
++ Cancellations result in vacant rooms for the booked length of time.
 
-. Clients make hotel reservations the same year they make cancellations.
++ Clients make hotel reservations the same year they make cancellations.
 
 
